@@ -7,6 +7,8 @@ from datetime import datetime, timedelta
 from discord.ext import tasks, commands
 from config import settings
 
+# Change this ID's to your ID's
+
 SERVER_ID = 1216806587554070698
 CHANNEL_IDS = [
     1216858968165453994,
