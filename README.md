@@ -19,3 +19,13 @@ Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswert
 
 ## ⚠️ Wichtig
 - Channel ID's, Server ID, TOKEN, Custom Emojis müssen im Code manuell ersetzt werden
+
+## 🛡️ License
+
+This project is licensed under the Creative Commons BY-NC 4.0 License.  
+You are free to use and modify the code, but **must give credit** and **may not use it commercially**.  
+Full license: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Für weitere Fragen oder anliegen:
+- Discord: fabvali
+- Email: fabvali@petalmail.com
