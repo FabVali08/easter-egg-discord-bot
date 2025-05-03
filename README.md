@@ -1,3 +1,6 @@
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Made by fabvali](https://img.shields.io/badge/Author-fabvali-blueviolet)
 # 🥚 EasterEgg-Hunt-Bot 🐰
 
 Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswertung. Programmiert in Python. Json zum speichern der Eventinformationen
