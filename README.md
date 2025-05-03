@@ -1,4 +1,4 @@
-# 🥚 EasterEgg-Hunt-Bot 🐰🥚
+# 🥚 EasterEgg-Hunt-Bot 🐰
 
 Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswertung.
 
