@@ -1,6 +1,6 @@
 # 🥚 EasterEgg-Hunt-Bot 🐰
 
-Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswertung.
+Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswertung. Programmiert in Python. Json zum speichern der Eventinformationen
 
 ## ✨ Features
 - Sendet zufällig Ostereier in ausgewählte Channels
