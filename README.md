@@ -11,7 +11,11 @@ Ein Open-Source Discord Bot für eine Ostereier-Sammelaktion mit Ergebnisauswert
 - Python 3.8 oder höher
 - Discord Bot Token
 - discord.py Bibliothek
-- Berechtigung zum Hinzufügen von Custom Emojis auf deinem Server
+- Berechtigung für den Discord Bot
+  - Cutom Emojis
+  - Nachrichten löschen
+  - Nachrichten senden
+  - Kanäle einsehen
 
 ## ⚠️ Wichtig
 - Channel ID's, Server ID, TOKEN, Custom Emojis müssen im Code manuell ersetzt werden
